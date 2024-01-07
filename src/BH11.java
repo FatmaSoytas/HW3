@@ -3,5 +3,6 @@ public class BH11 {
         System.out.println(" busefer olacak !!!");
         //Yeni satir
            System.out.println(" Bravo bu sefer oldu :) ");
+           System.out.println(" yenilik ");
     }
 }
